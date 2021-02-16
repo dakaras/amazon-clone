@@ -1,7 +1,7 @@
 import React from 'react'
 import './Product.css'
 
-function Product({title, image, price, rating}) {
+function Product({id, title, image, price, rating}) {
     return (
         <div className='product'>
             <div className='product_info'>
@@ -18,7 +18,7 @@ function Product({title, image, price, rating}) {
                     ))}
                 </div>
             </div>
-            < img src = 'https://images-na.ssl-images-amazon.com/images/I/51UYSL+IuPL._SX332_BO1,204,203,200_.jpg'/>
+            < img src={image}/>
             <button>Add to Basket</button>
         </div>
     )
