@@ -12,6 +12,9 @@ function Checkout() {
             <div className='checkout_title'>
                 <h2>Your Shopping Basket</h2>
             </div>
+            <div className='checkout_right'>
+                <h2>the subtotal will go here</h2>
+            </div>
         </div>
     )
 }
