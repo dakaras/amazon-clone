@@ -33,14 +33,14 @@ function Home() {
                     />
                     <Product
                     id='45692728492'
-                    title='Ninja Professional Countertop Blender with 1100-Watt Base, 72 Oz Total Crushing Pitcher and (2) 16 Oz Cups for Frozen Drinks and Smoothies'
+                    title='Ninja Professional Countertop Blender: 1100-Watt Base, 72 Oz Pitcher,(2) 16 Oz Cups'
                     price={115.48}
                     image = 'https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6001/6001401_sd.jpg;maxHeight=640;maxWidth=550'
                     rating={3}
                     />
                     <Product
                     id ='5374829223'
-                    title = 'Ingersoll Rand 2235TiMAX 1/2-Inch Drive Air Impact Wrench, 930 ft-lbs Max Reverse Torque, Gray'
+                    title = 'Ingersoll Rand 2235TiMAX 1/2-Inch Drive Air Impact Wrench'
                     price={215.00}
                     image = 'https://m.media-amazon.com/images/I/811k8tFlcSL._AC_UL800_FMwebp_QL65_.jpg'
                     rating={4}
