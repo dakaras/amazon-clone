@@ -1,8 +1,6 @@
 import React from 'react'
 import './CheckoutProduct.css'
 
-import React from 'react'
-
 function CheckoutProduct({id, image, title, price, rating}) {
     return (
         <div className='checkoutProduct'>
